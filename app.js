@@ -1,4 +1,3 @@
-// Code goes here
 
 (function() {
   var app = angular.module('gemStore', ['store-directives']);
@@ -37,9 +36,8 @@
     color: '#CCC',
     faces: 14,
     images: [
-      "http://cl.zdn.io/UuY7/gem-02.gif",
-      "http://cl.zdn.io/UuWP/gem-05.gif",
-      "http://cl.zdn.io/UuD4/gem-09.gif"
+      "http://www.karscot.com/images/canada-cap.gif",
+      "http://mlm-d2-p.mlstatic.com/12061-MLM20053669329_022014-O.jpg"
     ],
     reviews: [{
       stars: 5,
